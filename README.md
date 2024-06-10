@@ -1,6 +1,6 @@
 # ACCOUNTS
 
-This project is simlple implementation of some basic structures of [NodeJs] made to start the laerning of this techology.
+This project is a simple implementation of some basic structures of [NodeJs] made to start learning about this technology.
 
 ## Description
 
